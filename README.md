@@ -10,7 +10,8 @@
         <h2> Disccover the difficulty of being singal parent child</h2>
         <h3> James F. S. Sayforteh: A Child of self ambitiont</h3>
         
-        <p> Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices. This hot and sour soup features a tantalizing blend of lemograss, galangal, and kn=affir lime leaves, combined with succulent shrimp</p>
+        <p> James F. S. Saforteh, is a classical signal parent who fight his way throng the society to achieved his goals, being such satuiation was never easy for him, many day this was never gong the him planned, but he never give up on God, he trust in the almighty for his break through.
+        in achieving his dream of becoming educated with a difficult challenge for him, be he had know on to run to for expect God, the communication wAS ALWAY made hrough prayer wuth God for all his need and request. </p>
         
         <Blackquote> 
         <p><q>The key to a delicious Tom Yum oong lies in the balance of flavors - sweet, sour, salty, and spicy.<P></q>
