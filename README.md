@@ -10,8 +10,8 @@
         <h2> Disccover the difficulty of being singal parent child</h2>
         <h3> James F. S. Sayforteh: A Child of self ambitiont</h3>
         
-        <p> James F. S. Saforteh, is a classical signal parent who fight his way throng the society to achieved his goals, being such satuiation was never easy for him, many day this was never gong the him planned, but he never give up on God, he trust in the almighty for his break through.
-        in achieving his dream of becoming educated with a difficult challenge for him, be he had know on to run to for expect God, the communication wAS ALWAY made hrough prayer wuth God for all his need and request. </p>
+        <p> James F. S. Saforteh, is a classical signal parent child, who fight his way throng the society to achieved his goals, being in such satuiation was never easy for him, many day things was never going the way him planned, but he never give up on God, he trusted in the almighty for his break through.
+        in achieving his dream of becoming educated with so many difficult challenges faced, he had know one to run to for help expect God, the communication was ALWAY made hrough prayer to God for all his need and request. </p>
         
         <Blackquote> 
         <p><q>The key to a delicious Tom Yum oong lies in the balance of flavors - sweet, sour, salty, and spicy.<P></q>
