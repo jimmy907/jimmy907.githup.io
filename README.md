@@ -1,14 +1,14 @@
 <theme><_config.yml</>
 <html lang="en">
 <head>
-    <title>Taste Travel</title>
-    <meta name ="description" content ="embark on a culinary adventure with Taste of Travel, exploring global flavor and recipes."> 
+    <title>Bio History of James F. S. Sayforteh</title>
+    <meta name ="description" content ="embark on a culinary adventure with a pain from a woman of self supporter on for her child."> 
     <meta Charset="UTF-8">
     </head>
     <body>
         <h1> embark on a culinary adventure</h1>
-        <h2> Disccover the flavors of Thailand</h2>
-        <h3> Tom Yum Goong: A Spicy Thai Delight</h3>
+        <h2> Disccover the difficulty of being singal parent child</h2>
+        <h3> James F. S. Sayforteh: A Child of self ambitiont</h3>
         
         <p> Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices. This hot and sour soup features a tantalizing blend of lemograss, galangal, and kn=affir lime leaves, combined with succulent shrimp</p>
         
