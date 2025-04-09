@@ -1,4 +1,4 @@
-<theme><jekyll-theme-minimal</>
+<theme><_config.yml</>
 <html lang="en">
 <head>
     <title>Taste Travel</title>
