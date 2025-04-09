@@ -1,4 +1,4 @@
-<!-- Your HTML Code Goes Here -->  <!DocType html>
+
 <html lang="en">
 <head>
     <title>Taste Travel</title>
